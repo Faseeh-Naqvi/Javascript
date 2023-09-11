@@ -30,3 +30,22 @@
 
 //3rd: 
 //Arithmatic expressions:
+// let numStudents = 25;
+// numStudents +=1;
+// document.getElementById("p1").innerHTML = "The Class Has " + numStudents + " Students!";
+
+
+
+//4th:
+//User input:
+
+//let username = window.prompt("Username: ")
+// let username;
+// let password;
+// document.getElementById("submit").onclick = function(){
+//     username = document.getElementById("username").value;
+//     password = document.getElementById("password").value;
+//     console.log(username);
+//     console.log(password);
+//     document.getElementById("login").innerHTML = "Welcome: " + username;
+// }
